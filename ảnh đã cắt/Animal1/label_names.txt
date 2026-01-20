@@ -1,0 +1,16 @@
+_background_
+Bear
+Camel
+Cat
+Chicken
+Crab
+Crocodile
+Dog
+Elephant
+Fox
+Goose
+Hippo
+Lion
+Monkey
+Pig
+Wolf

@@ -1,0 +1,7 @@
+_background_
+bernese
+cat
+chihuahua
+parrot
+rabbit
+shiba

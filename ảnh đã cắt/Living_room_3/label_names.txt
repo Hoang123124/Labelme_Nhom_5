@@ -1,0 +1,15 @@
+_background_
+TV shelf
+cabinet
+carpet
+ceiling
+door
+door membrane
+floor
+lamp
+picture
+pillow
+sofa
+tv
+wall
+wall mounted cabinet

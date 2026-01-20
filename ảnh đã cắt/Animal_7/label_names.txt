@@ -1,0 +1,15 @@
+_background_
+Bus
+Camels
+Ostrichs
+Pelican
+Person
+Rhinos
+Stork
+Zebra
+Zebras
+car
+giraffe
+giraffes
+giraffs
+umbrella

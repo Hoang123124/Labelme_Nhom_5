@@ -1,0 +1,12 @@
+_background_
+Cloud
+Cloud 2
+Elephant
+Elephant 2
+Elephant 3
+Elephant 4
+Elephant 5
+Elephant 6
+Elephant 7
+Ground
+Mountain

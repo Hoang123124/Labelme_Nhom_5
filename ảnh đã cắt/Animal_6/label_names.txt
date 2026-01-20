@@ -1,0 +1,6 @@
+_background_
+grass
+lion cub
+lioness
+tourist car
+tree
